@@ -5,7 +5,7 @@ Me chamo João, tenho 18 anos e sou um estudante e intusiasta da área da tecnol
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaopaulostradiotopacolla)
 
-![João Pacolla GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&theme=blue-green)
+![João Pacolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=transparent)
 
                                                                   Habilidades
 <br>
@@ -32,4 +32,4 @@ Me chamo João, tenho 18 anos e sou um estudante e intusiasta da área da tecnol
 <br>
 
 
-![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=fanfufa&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanfufa)](https://github.com/anuraghazra/github-readme-stats)
