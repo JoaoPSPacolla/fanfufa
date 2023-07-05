@@ -32,4 +32,3 @@ Me chamo João, tenho 18 anos e sou um estudante e intusiasta da área da tecnol
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanfufa)](https://github.com/anuraghazra/github-readme-stats)
