@@ -29,6 +29,7 @@ Me chamo João, tenho 18 anos e sou um estudante e intusiasta da área da tecnol
 ![Blog](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 )
 ![Blog](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>
 
