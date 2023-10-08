@@ -17,7 +17,7 @@ Front-end <div style="float: left; width: 50%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px">    
 </div>
 
-<div style="display: inline-block; width: 50%; margin-top: -34px; margin-right: 200px">  
+<div style="display: inline-block; width: 50%; margin-top: -34px;>  
 Back-end <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px">
