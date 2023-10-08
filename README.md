@@ -9,15 +9,15 @@ Me chamo João, tenho 18 anos e sou um estudante e entusiasta da área da tecnol
 
 ![João Pacolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=transparent)
 
-                                                    
-Front-end <div style="float: left; width: 50%"> 
+<div style=""display: inline-block; width: 48%;>                                                     
+Front-end 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px">    
 </div>
 
-<div style="float: left; width: 50%;>  
+<div style=""display: inline-block; width: 48%;>  
 Back-end <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px">
@@ -28,7 +28,7 @@ Back-end <br>
 <br>
 <br>
 
-<div style="float: left; width: 50%">
+<div style=""display: inline-block; width: 50%">
 Versioning <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px">
