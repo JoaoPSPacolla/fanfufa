@@ -34,7 +34,6 @@ Database <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px">
           
 Languages<br> <br>
-
 <img src="https://cdn-icons-png.flaticon.com/512/2412/2412385.png" alt="Brasil" width="40px"  height="40px">
 <img src="https://files.softicons.com/download/internet-cons/flag-icons-by-custom-icon-design/png/256/United-States-Flag.png" alt="Brasil" width="40px"  height="44px">
 
