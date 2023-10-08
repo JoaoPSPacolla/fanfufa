@@ -17,23 +17,23 @@ Front-end <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px">    
 </div>
           
-Back-end <br>
+Back-end <br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px">
 <br>
 
-Versioning <br>
+Versioning <br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px">
                    
-Database <br>
+Database <br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px">
           
-Languages<br>
+Languages<br> <br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/2412/2412385.png" alt="Brasil" width="40px"  height="40px">
 <img src="https://files.softicons.com/download/internet-cons/flag-icons-by-custom-icon-design/png/256/United-States-Flag.png" alt="Brasil" width="40px"  height="44px">
