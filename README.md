@@ -8,5 +8,5 @@ Please feel free to check my projects, social medias and contact me
 
 ![João Pacolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=transparent)
 
-<p style="font-size:20px", font-weight:bold>Front-end:</p>  HTML, CSS, JavaScript, BootStrap | Banck-end: C#, Java, Python | DataBase: MySQL | Languages: English (advanced) and Portuguese (native)
+<p font-weight:bold>Front-end:</p>  HTML, CSS, JavaScript, BootStrap | Banck-end: C#, Java, Python | DataBase: MySQL | Languages: English (advanced) and Portuguese (native)
 
