@@ -8,5 +8,8 @@ Please feel free to check my projects, social medias and contact me
 
 ![João Pacolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=transparent)
 
-Front-end: HTML, CSS, JavaScript | Banck-end: C#, Java, Python | DataBase: MySQL | Languages: English (advanced) and Portuguese (native)
+Front-end: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"> | Banck-end: C#, Java, Python | DataBase: MySQL | Languages: English (advanced) and Portuguese (native)
 
