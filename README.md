@@ -11,7 +11,7 @@ Please feel free to check my projects, social medias and contact me
                                                     
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-  <!-- Front-end -->
+Front-end
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px">
@@ -19,25 +19,19 @@ Please feel free to check my projects, social medias and contact me
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px">
   </div>
 
-  <!-- Back-end -->
+Back-end
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px">
   </div>
-
-  <!-- Versioning -->
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px">
-  </div>
-
-  <!-- Database -->
+  
+Database
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px">
   </div>
-
-  <!-- Languages -->
+  
+Languages
   <div>
     <img src="https://cdn-icons-png.flaticon.com/512/2412/2412385.png" alt="Brasil" width="40px" height="40px">
     <img src="https://files.softicons.com/download/internet-cons/flag-icons-by-custom-icon-design/png/256/United-States-Flag.png" alt="Brasil" width="40px" height="44px">
