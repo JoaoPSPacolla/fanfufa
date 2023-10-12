@@ -1,10 +1,7 @@
-Olá! Eu sou o João Pacolla e seja bem vindo ao meu GITHUB 👋
-
-Um pouco sobre mim: <br>
-Me chamo João, tenho 18 anos e sou um estudante e entusiasta da área da tecnologia. Estou elaborando essa página inicial para que as pessoas me conheçam melhor e eu possa divulgar meus projetos. Até o momento (2023) estou no último ano de um curso técnico em Desenvovimento de Sistemas e futuramente pretendo entrar em uma faculdade da área para poder seguir na carreira. 
+Hello There! 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaopaulostradiotopacolla)
-![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href="joaopaulostradioto@gmail.com">
+![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href="malito:joaopaulostradioto@gmail.com">
 
 
 ![João Pacolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=transparent)
