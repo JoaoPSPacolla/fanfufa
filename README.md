@@ -20,10 +20,12 @@ Please feel free to check my projects, social medias and contact me
   }
 </style>
 
-<div class="skills-grid">
+<div class="skills-grid" style="display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;">
 
   <!-- Front-end -->
-  <div class="skill-category">
+  <div class="skill-category" style:text-align: center>
     <span>Front-end</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px">
