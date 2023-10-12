@@ -1,7 +1,7 @@
 Hello There! 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaopaulostradiotopacolla)
-![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href="malito:joaopaulostradioto@gmail.com">
+<a href = "mailto:joaopaulostradioto@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
 
 
 ![João Pacolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=transparent)
