@@ -1,5 +1,6 @@
-Hello There! 
-My name is João Paulo and I'm a brazillian front-end developer and I also have been learning Python, especially for construct AI and Machine Learning. Welcome to my Github! Please feel free to check my projects, social medias and contact me
+<h1> Hello There!  </h1>
+My name is João Paulo and I'm a brazillian front-end developer and I also have been learning Python, especially for construct AI and Machine Learning. <br>
+Welcome to my Github! Please feel free to check my projects, social medias and contact me <br><br>
 
 
   <a href = "mailto:joaopaulostradioto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,5 +17,7 @@ My name is João Paulo and I'm a brazillian front-end developer and I also have 
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <br>
 </section>
 
-<h3>Languages:</h3> English (advanced) and Portuguese (native)
+<h3>Languages:</h3> 
+English (advanced) / Inglês (avançado) 
+Portuguese (native) / Português (nativo)
 
