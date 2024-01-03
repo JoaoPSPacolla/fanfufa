@@ -18,6 +18,6 @@ Welcome to my Github! Please feel free to check my projects, social medias and c
 </section>
 
 <h3>Languages:</h3> 
-English (advanced) / Inglês (avançado) 
+English (advanced) / Inglês (avançado) <br>
 Portuguese (native) / Português (nativo)
 
