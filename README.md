@@ -1,6 +1,6 @@
 Hello There! 
-My name is João and I'm a fullstack student. Welcome to my Github!
-Please feel free to check my projects, social medias and contact me
+My name is João Paulo and I'm a brazillian front-end developer and I also have been learning Python, especially for construct AI and Machine Learning. Welcome to my Github! Please feel free to check my projects, social medias and contact me
+
 
   <a href = "mailto:joaopaulostradioto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopaulostradiotopacolla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
