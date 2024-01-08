@@ -7,7 +7,12 @@ Welcome to my Github! Please feel free to check my projects, social medias and c
   <a href="https://www.linkedin.com/in/joaopaulostradiotopacolla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-![João Pacolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=transparent)
+<div>
+<a href="https://github.com/fanfufa">
+<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanfufa&layout=compact&langs_count=7&theme=dracula"/>-->
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fanfufa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br>
 
 <section>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
